@@ -25,9 +25,9 @@
 
 // // 3-masala
 
-const numbers = [1, 2, 3]
-numbers[10] = 11;
-console.log(numbers);
+// const numbers = [1, 2, 3]
+// numbers[10] = 11;
+// console.log(numbers);
 
 // C variant : [1, 2, 3, empty  x 7, 11]
 
